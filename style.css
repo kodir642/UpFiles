@@ -10,14 +10,14 @@ body{
 .main-menu{
     max-width: 1080px;
     margin: 10px auto;
-    background-color: #085da3;
+    background-color: #22a308;
     padding: 10px;
     overflow: hidden;
 }
 
 header{
-    background-color: rgb(78, 179, 247);
-    color: black;
+    background-color: #220a0a;
+    color: rgb(255, 255, 255);
     padding: 30px;
 }
 
@@ -31,20 +31,20 @@ header h1{
     margin: 2px;
     padding: 0;
     overflow: hidden;
-    background-color: #84b4e2;
+    background-color: #220a0a;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     font-weight: bold;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 .navigasi li{
     float: left;
-    color: black;
+    color: rgb(253, 251, 251);
 }
 .navigasi li a{
     display: white;
-    color: black;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 10px 15px;
     text-decoration: none;
@@ -73,7 +73,8 @@ header h1{
 }
 
 .kotak h3{
-    background-color:  #085da3;
+    background-color:  #220a0a;
+    color : white;
     text-align: center;
     padding: 10px;
     margin-bottom: 3px;
